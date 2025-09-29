@@ -9,10 +9,12 @@
 /* Begin PBXBuildFile section */
 		6C008FEC2E863BEA00D3242F /* AudioKit in Frameworks */ = {isa = PBXBuildFile; productRef = 6C008FEB2E863BEA00D3242F /* AudioKit */; };
 		6C008FEF2E863D4600D3242F /* SoundpipeAudioKit in Frameworks */ = {isa = PBXBuildFile; productRef = 6C008FEE2E863D4600D3242F /* SoundpipeAudioKit */; };
+		6CF2BE422E8A02FB0074E24E /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 6CF2BE412E8A02F50074E24E /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		6C5210572E83689A00C74077 /* Rhythm Paint.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Rhythm Paint.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CF2BE412E8A02F50074E24E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -39,6 +41,7 @@
 		6C52104E2E83689A00C74077 = {
 			isa = PBXGroup;
 			children = (
+				6CF2BE412E8A02F50074E24E /* README.md */,
 				6C5210592E83689A00C74077 /* Rhythm Paint */,
 				6C5210582E83689A00C74077 /* Products */,
 			);
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6CF2BE422E8A02FB0074E24E /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
