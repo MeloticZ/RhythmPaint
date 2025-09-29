@@ -1,5 +1,5 @@
 
-https://raw.githubusercontent.com/MeloticZ/RhythmPaint/refs/heads/main/preview/video.mp4
+https://github.com/user-attachments/assets/2600bf1c-d7d2-4f70-b4f6-8caec82cd996
 
 ## Rhythm Paint
 
