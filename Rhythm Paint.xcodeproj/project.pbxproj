@@ -23,6 +23,11 @@
 			path = "Rhythm Paint";
 			sourceTree = "<group>";
 		};
+		6CF2BE432E8A046F0074E24E /* preview */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = preview;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +46,7 @@
 		6C52104E2E83689A00C74077 = {
 			isa = PBXGroup;
 			children = (
+				6CF2BE432E8A046F0074E24E /* preview */,
 				6CF2BE412E8A02F50074E24E /* README.md */,
 				6C5210592E83689A00C74077 /* Rhythm Paint */,
 				6C5210582E83689A00C74077 /* Products */,
@@ -72,6 +78,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				6C5210592E83689A00C74077 /* Rhythm Paint */,
+				6CF2BE432E8A046F0074E24E /* preview */,
 			);
 			name = "Rhythm Paint";
 			packageProductDependencies = (
